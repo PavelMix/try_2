@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Try2::Application.config.secret_key_base = '6b4199c616cf7786a71d77454d98b2109ce21ef81e57ec56a0f71debdb38d4df85de85e096ed2abb6817564e061a978faea068a8a35677339314b01192c0a945'
+Try3::Application.config.secret_key_base = '3e35b3a33ae8c88d1aeeb92e29ba2233995e28ba149c161af9ca8c9e0220b64e5668670ced06e3662e1f88cd792b17c641cc0c77cf6259de0ac33aae72d44dc1'
